@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research or framework, please cite it as below."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    email: "lmc.theory@gmail.com"
+    affiliation: "Lichen-Collectives"
+title: "L'Architecture du Vandalisme Cognitif : Empoisonnement des Données et Révisionnisme Historique dans les LLM"
+version: 1.0.0
+date-released: 2026-01-28
+abstract: "Analyse technique et éthique des mécanismes d'empoisonnement de données (Data Poisoning) dans les modèles de langage (LLM). Le projet quantifie l'effet de levier des biais marginaux (1% d'input = 10% d'output), examine les cas de Grokipedia et du réseau Pravda, et propose des solutions basées sur la cryptographie (Blockchain/C2PA) et la triangulation des sources pour prévenir le 'Model Collapse' moral et l'hallucination autoritaire."
+keywords:
+  - "cognitive-vandalism"
+  - "llm-security"
+  - "data-poisoning"
+  - "historical-revisionism"
+  - "ai-ethics"
+license: "Apache-2.0"
+repository-code: "https://github.com/lichen-collectives/covan-defense-protocol"
